@@ -36,7 +36,6 @@ SMS-Spam-Classifier
 ├── vectorizer.pkl
 ├── SMS_Spam_Classifier.ipynb
 ├── README.md
-├── .gitignore
 │
 └── screenshots
     ├── home.png
